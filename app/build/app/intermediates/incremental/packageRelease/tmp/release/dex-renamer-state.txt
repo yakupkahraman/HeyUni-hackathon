@@ -1,0 +1,4 @@
+#Sun May 18 07:37:17 TRT 2025
+base.0=/home/yakup/StudioProjects/heyuni/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

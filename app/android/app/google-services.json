@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "588266983110",
+    "project_id": "heyuni-ai",
+    "storage_bucket": "heyuni-ai.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588266983110:android:dff7defba74ca741af51c7",
+        "android_client_info": {
+          "package_name": "com.example.heyuni"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-UMehQdkwmOqfPYTFbB97ujJfbhQMNo0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
